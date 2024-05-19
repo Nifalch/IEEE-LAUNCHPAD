@@ -8,16 +8,7 @@ I have a strong interest in technology and enjoy learning new things. I'm consta
 I'm enthusiastic about the future and sure that I can have a constructive influence on it. I'm committed to using my knowledge and abilities to improve the lives of others.
 
 
-## Portfolio Highlights
-
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **E Voting System using Blockchain**  | Develop an electronic voting (e-voting) system utilizing blockchain technology to enhance transparency, security, and accessibility in the voting process.                                             | -   | [Git Repo Link ](https://github.com/Nifalch/Block-chain-voting-system)            |
-| **Free Parking Space Detection Using Yolo V8 and Open CV**  | Develop a system utilizing YOLOv8 and OpenCV to detect and highlight empty parking spaces in real-time, aimed at simplifying parking, decreasing traffic congestion, and advocating sustainability in urban settings.                                             | -    | [Git Repo Link ](https://github.com/Nifalch/parking_space_finder)             |
-| **Propose your girl**  | Afraid To Propose Someone? don’t worry I am here to help you to propose                                              | [propose](https://nifalproposal.netlify.app)    | [Git Repo Link ](https://github.com/Nifalch/propose-a-girl)             |
-| **3D portfolio web**  | 3D portfolio website                                             | [3d web](https://nifal.netlify.app/)    | [Git Repo Link ](https://github.com/Nifalch/3d)             |
+          
 #### Leadership and Influence:
 
 - #### IEEE Educational Society Young Professional Adhoc Committee Publicity Lead 
